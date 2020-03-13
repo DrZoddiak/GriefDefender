@@ -3,239 +3,239 @@
     "libraries": [
         {
             "name": "com.griefdefender:api:1.0.0",
-            "sha1": "08d8fa30e0f8bbb43a2100e712bed2a815a8fd87",
+            "sha256": "cc6f619eefc7083e98aeeb22b29947d2590834042b93e9539edfa7c7074df4df",
             "path": "com/griefdefender/api/1.0.0-SNAPSHOT/api-1.0.0-20200125.004205-14.jar",
             "url": "https://repo.glaremasters.me/repository/bloodshot/com/griefdefender/api/1.0.0-SNAPSHOT/api-1.0.0-20200125.004205-14.jar"
         },
         {
             "name": "com.griefdefender:reflect-helper:1.0",
-            "sha1": "7a50bffa9f0062ac4ca376d95a0e6599aa5f3257",
+            "sha256": "577192374f8637730a541587f15e52744348542f44087b432baeca7303d37e07",
             "path": "com/griefdefender/reflect-helper/1.0/reflect-helper-1.0.jar",
             "url": "https://repo.glaremasters.me/repository/bloodshot/com/griefdefender/reflect-helper/1.0/reflect-helper-1.0.jar"
         },
         {
             "name": "com.googlecode.json-simple:json-simple:1.1.1",
-            "sha1": "c9ad4a0850ab676c5c64461a05ca524cdfff59f1",
+            "sha256": "4e69696892b88b41c55d49ab2fdcc21eead92bf54acc588c0050596c3b75199c",
             "path": "com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar",
             "url": "https://repo1.maven.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar"
         },
         {
             "name": "org.ow2.asm:asm-debug-all:5.2",
-            "sha1": "3354e11e2b34215f06dab629ab88e06aca477c19",
+            "sha256": "254b82bec9da4f8efbc8b1f93ab2b87f7465227a82b36cf3d05d9e77a0e8dd2e",
             "path": "org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar",
             "relocate": "org.ow2.asm:asm",
             "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
         },
         {
             "name": "me.lucko:jar-relocator:1.3",
-            "sha1": "90c6b66b8535f2f5eefc108e34e50f3e02e1f4cf",
+            "sha256": "9a6cf796d41b4bcc57180dac70cd191faada21296de27ba48c2894da5f49c5fb",
             "path": "me/lucko/jar-relocator/1.3/jar-relocator-1.3.jar",
             "relocate": "me.lucko:lucko",
             "url": "https://repo1.maven.org/maven2/me/lucko/jar-relocator/1.3/jar-relocator-1.3.jar"
         },
         {
             "name": "co.aikar:acf-core:0.5.0-SNAPSHOT",
-            "sha1": "72aff420c92e4cb381ba8bccceb0b37cba7a9496",
+            "sha256": "14d1d3e24c8aafc52fefbe6c263f393e62be7e9b2cf99aa4d8773d7713da0a8e",
             "path": "co/aikar/acf-core/0.5.0-SNAPSHOT/acf-core-0.5.0-20190722.233344-152.jar",
             "url": "https://repo.glaremasters.me/repository/public/co/aikar/acf-core/0.5.0-SNAPSHOT/acf-core-0.5.0-20190722.233344-152.jar"
         },
         {
             "name": "co.aikar:acf-sponge:0.5.0-SNAPSHOT",
-            "sha1": "c73413c215cfad8f0c2306ed156df74ebdf18d47",
+            "sha256": "0477d5ef0346f259a529e200ed5daf75c2233296dcb1a1f55ddbb78b1bfc93fc",
             "path": "co/aikar/acf-sponge/0.5.0-SNAPSHOT/acf-sponge-0.5.0-20190722.233405-145.jar",
             "url": "https://repo.glaremasters.me/repository/public/co/aikar/acf-sponge/0.5.0-SNAPSHOT/acf-sponge-0.5.0-20190722.233405-145.jar"
         },
         {
             "name": "co.aikar:locales:1.0-SNAPSHOT",
-            "sha1": "09c89ff1a611600186edf8482d1059544875582b",
+            "sha256": "83a1776b15e1ce2a2001818594b8fa202c95dbf9bb585687fb5a67cce2f7d777",
             "path": "co/aikar/locales/1.0-SNAPSHOT/locales-1.0-20181221.115311-17.jar",
             "url": "https://repo.glaremasters.me/repository/public/co/aikar/locales/1.0-SNAPSHOT/locales-1.0-20181221.115311-17.jar"
         },
         {
             "name": "co.aikar:minecraft-timings:1.0.4",
-            "sha1": "7ed9d44840cd2c0f77b7c5276d60ca901b146332",
+            "sha256": "79fc4224fe17eac132b30b216376afeb4619643b32f1268c467acd92dc81c0ba",
             "path": "co/aikar/minecraft-timings/1.0.4/minecraft-timings-1.0.4.jar",
             "url": "https://repo.glaremasters.me/repository/public/co/aikar/minecraft-timings/1.0.4/minecraft-timings-1.0.4.jar"
         },
         {
             "name": "co.aikar:Table:1.0.0-SNAPSHOT",
-            "sha1": "ccbfaea11c65e6d7173226d318c577c439673b3a",
+            "sha256": "3dc2e7b64f42a3e573954e5c77fd16baf92cdb7baee5ac7f32a270991af39018",
             "path": "co/aikar/Table/1.0.0-SNAPSHOT/Table-1.0.0-20180331.054128-7.jar",
             "url": "https://repo.glaremasters.me/repository/public/co/aikar/Table/1.0.0-SNAPSHOT/Table-1.0.0-20180331.054128-7.jar"
         },
         {
             "name": "net.jodah:expiringmap:0.5.9",
-            "sha1": "b93ac8a915e38beadc20c3cc284506e15478fd7b",
+            "sha256": "07c42d3f555b18b7730141bdaf02b7c7dcea03f933a612ef386c12f95fa7a047",
             "path": "net/jodah/expiringmap/0.5.9/expiringmap-0.5.9.jar",
             "relocate": "net.jodah:jodah",
             "url": "https://repo1.maven.org/maven2/net/jodah/expiringmap/0.5.9/expiringmap-0.5.9.jar"
         },
         {
             "name": "aopalliance:aopalliance:1.0",
-            "sha1": "0235ba8b489512805ac13a8f9ea77a1ca5ebe3e8",
+            "sha256": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
             "path": "aopalliance/aopalliance/1.0/aopalliance-1.0.jar",
             "relocate": "org.aopalliance:aopalliance",
             "url": "https://repo1.maven.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar"
         },
         {
             "name": "com.flowpowered:flow-math:1.0.3",
-            "sha1": "d98020239e5015091ad3be927cef9dea0d61a234",
+            "sha256": "dea201031f7660ebcc76041365d78d74b9bfb36faec70d3ea0dcfc503d3dc674",
             "path": "com/flowpowered/flow-math/1.0.3/flow-math-1.0.3.jar",
             "url": "https://repo1.maven.org/maven2/com/flowpowered/flow-math/1.0.3/flow-math-1.0.3.jar"
         },
         {
             "name": "com.google.inject:guice:4.1.0",
-            "sha1": "eeb69005da379a10071aa4948c48d89250febb07",
+            "sha256": "9b9df27a5b8c7864112b4137fd92b36c3f1395bfe57be42fedf2f520ead1a93e",
             "path": "com/google/inject/guice/4.1.0/guice-4.1.0.jar",
             "url": "https://repo1.maven.org/maven2/com/google/inject/guice/4.1.0/guice-4.1.0.jar"
         },
         {
             "name": "javax.inject:javax.inject:1",
-            "sha1": "6975da39a7040257bd51d21a231b76c915872d38",
+            "sha256": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
             "path": "javax/inject/javax.inject/1/javax.inject-1.jar",
             "url": "https://repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar"
         },
         {
             "name": "com.squareup.okhttp3:okhttp:3.14.2",
-            "sha1": "eaed79ed6bc1e14fad462172b6a09524545b165c",
+            "sha256": "97d8a4ead88b36100ccbf265835dd6a79d3b80f215b03162370875d4628ed2bf",
             "path": "com/squareup/okhttp3/okhttp/3.14.2/okhttp-3.14.2.jar",
             "relocate": "okhttp3:okhttp3",
             "url": "https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/3.14.2/okhttp-3.14.2.jar"
         },
         {
             "name": "com.squareup.okio:okio:2.2.2",
-            "sha1": "36f483536153f15339a8b48d508e22be7c9c531a",
+            "sha256": "e58c97406a6bb1138893750299ac63c6aa04b38b6b49eae1bfcad1a63ef9ba1b",
             "path": "com/squareup/okio/okio/2.2.2/okio-2.2.2.jar",
             "relocate": "okio:okio",
             "url": "https://repo1.maven.org/maven2/com/squareup/okio/okio/2.2.2/okio-2.2.2.jar"
         },
         {
             "name": "com.github.ben-manes.caffeine:caffeine:2.7.0",
-            "sha1": "c3af06be4a7d4e769fce2cef5e77d3becad9818a",
+            "sha256": "170f2986d707c0df94228f57d5257b7f11f886fd42b53b61316a7498ac7e07ff",
             "path": "com/github/ben-manes/caffeine/caffeine/2.7.0/caffeine-2.7.0.jar",
             "relocate": "com.github.benmanes.caffeine:caffeine",
             "url": "https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.7.0/caffeine-2.7.0.jar"
         },
         {
             "name": "commons-io:commons-io:2.6",
-            "sha1": "815893df5f31da2ece4040fe0a12fd44b577afaf",
+            "sha256": "f877d304660ac2a142f3865badfc971dec7ed73c747c7f8d5d2f5139ca736513",
             "path": "org/apache/commons/commons-io/2.6/commons-io-2.6.jar",
             "relocate": "org.apache.commons.io:commonsio",
             "url": "https://repo1.maven.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.jar"
         },
         {
             "name": "org.apache.commons:commons-lang3:3.9",
-            "sha1": "0122c7cee69b53ed4a7681c03d4ee4c0e2765da5",
+            "sha256": "de2e1dcdcf3ef917a8ce858661a06726a9a944f28e33ad7f9e08bea44dc3c230",
             "path": "org/apache/commons/commons-lang3/3.9/commons-lang3-3.9.jar",
             "relocate": "org.apache.commons.lang3:commonslang3",
             "url": "https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9.jar"
         },
         {
             "name": "org.spongepowered:configurate-core:3.7-SNAPSHOT",
-            "sha1": "e596c439ac71fa2ea5c48f8ba97a7dc6f4c77b16",
+            "sha256": "8d82e60aeb4c27cc7f28011ac8d090db821b6c2b7dd1b87e049e886178809325",
             "path": "org/spongepowered/configurate-core/3.7-SNAPSHOT/configurate-core-3.7-20190531.182437-11.jar",
             "relocate": "ninja.leaping.configurate:configurate",
             "url": "https://repo.spongepowered.org/maven/org/spongepowered/configurate-core/3.7-SNAPSHOT/configurate-core-3.7-20190531.182437-11.jar"
         },
         {
             "name": "org.spongepowered:configurate-gson:3.7-SNAPSHOT",
-            "sha1": "265a94f16583621f497eeecc356f35f983484dde",
+            "sha256": "b3011d34bf2f0c2bd10ed33bf3b418ade2182317ec1c08d2d75eca0b58519177",
             "path": "org/spongepowered/configurate-gson/3.7-SNAPSHOT/configurate-gson-3.7-20190531.182438-11.jar",
             "relocate": "ninja.leaping.configurate:configurate",
             "url": "https://repo.spongepowered.org/maven/org/spongepowered/configurate-gson/3.7-SNAPSHOT/configurate-gson-3.7-20190531.182438-11.jar"
         },
         {
             "name": "org.spongepowered:configurate-hocon:3.7-SNAPSHOT",
-            "sha1": "af48dcb9e7456f2f81a633f62ae5c55e5215c4af",
+            "sha256": "8a7f008345971548d28eeae33a2783fa3fc4bb0e26785df9af065ad7d8feb29f",
             "path": "org/spongepowered/configurate-hocon/3.7-SNAPSHOT/configurate-hocon-3.7-20190531.182439-11.jar",
             "relocate": "ninja.leaping.configurate:configurate",
             "url": "https://repo.spongepowered.org/maven/org/spongepowered/configurate-hocon/3.7-SNAPSHOT/configurate-hocon-3.7-20190531.182439-11.jar"
         },
         {
             "name": "org.spongepowered:configurate-yaml:3.7-SNAPSHOT",
-            "sha1": "c66110f5ae0098c450e048f78b322590d2e24d06",
+            "sha256": "c07b305f04107e541d4d253a9752a025c4e24ce2679af272a228d237c65095de",
             "path": "org/spongepowered/configurate-yaml/3.7-SNAPSHOT/configurate-yaml-3.7-20190531.182442-11.jar",
             "relocate": "ninja.leaping.configurate:configurate",
             "url": "https://repo.spongepowered.org/maven/org/spongepowered/configurate-yaml/3.7-SNAPSHOT/configurate-yaml-3.7-20190531.182442-11.jar"
         },
         {
             "name": "com.typesafe:config:1.3.1",
-            "sha1": "2cf7a6cc79732e3bdf1647d7404279900ca63eb0",
+            "sha256": "e6fadfc6108220d3a6b86aa7e4e16c9e7bb857ba58955886308bb13972264af0",
             "path": "com/typesafe/config/1.3.1/config-1.3.1.jar",
             "relocate": "com.typesafe:typesafe",
             "url": "https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.jar"
         },
         {
             "name": "it.unimi.dsi:fastutil:8.2.3",
-            "sha1": "f3a26db2204f1779c9958a914422f84284e53a84",
+            "sha256": "13195d70b40023c75c782e11682fa15beab4430286cdf0d7c616cf02ad2606fe",
             "path": "it/unimi/dsi/fastutil/8.2.3/fastutil-8.2.3.jar",
             "relocate": "it.unimi.dsi:fastutil",
             "url": "https://repo1.maven.org/maven2/it/unimi/dsi/fastutil/8.2.3/fastutil-8.2.3.jar"
         },
         {
             "name": "org.jetbrains.kotlin:kotlin-stdlib:1.3.31",
-            "sha1": "11289d20fd95ae219333f3456072be9f081c30cc",
+            "sha256": "f38c84326543e66ed4895b20fb3ea0fca527fd5a040e1f49d0946ecf3d2b3b23",
             "path": "org/jetbrains/kotlin/kotlin-stdlib/1.3.31/kotlin-stdlib-1.3.31.jar",
             "relocate": "org.jetbrains:jetbrains",
             "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.3.31/kotlin-stdlib-1.3.31.jar"
         },
         {
             "name": "net.kyori:event-api:3.0.0",
-            "sha1": "4e207f07d2adaa15e174a085f65bc6ae5a81029e",
+            "sha256": "ca3bdd4dd03292d97788511014b1c2dea630c2deff0db09ded973c4384a521a8",
             "path": "net/kyori/event-api/3.0.0/event-api-3.0.0.jar",
             "url": "https://repo1.maven.org/maven2/net/kyori/event-api/3.0.0/event-api-3.0.0.jar"
         },
         {
             "name": "net.kyori:event-method:3.0.0",
-            "sha1": "85fe9bbf8ebadde4c82602af29352ba5db06e8e5",
+            "sha256": "0a942a66fb59bffc6a8c7a0290bf9b69481ecb7de0edecbb7336577c232da07d",
             "path": "net/kyori/event-method/3.0.0/event-method-3.0.0.jar",
             "url": "https://repo1.maven.org/maven2/net/kyori/event-method/3.0.0/event-method-3.0.0.jar"
         },
         {
             "name": "net.kyori:event-method-asm:3.0.0",
-            "sha1": "69113430c1ba05c9d9fa6e48028edd53e3e16723",
+            "sha256": "1a71fbb5bcd092baa494e19f2b69ca348a28ae961704731a6d476fa04187f249",
             "path": "net/kyori/event-method-asm/3.0.0/event-method-asm-3.0.0.jar",
             "url": "https://repo1.maven.org/maven2/net/kyori/event-method-asm/3.0.0/event-method-asm-3.0.0.jar"
         },
         {
             "name": "net.kyori:text-adapter-bukkit:3.0.3",
-            "sha1": "37033ab1173d73a62a087cbd5c8d356774f4cee3",
+            "sha256": "2b589bd376a308d9bb0a45635f8da8f8c83a33e7946807e8dbd081bdfbbefbea",
             "path": "net/kyori/text-adapter-bukkit/3.0.3/text-adapter-bukkit-3.0.3.jar",
             "url": "https://repo1.maven.org/maven2/net/kyori/text-adapter-bukkit/3.0.3/text-adapter-bukkit-3.0.3.jar"
         },
         {
             "name": "net.kyori:text-adapter-bungeecord:3.0.2",
-            "sha1": "d57c245bdc182bdf37d1b7a32691859add018a2b",
+            "sha256": "6660a673aedd6a72a966bbbcac9b03a69259f9ff23a2ab942d923ccbf617e24b",
             "path": "net/kyori/text-adapter-bungeecord/3.0.2/text-adapter-bungeecord-3.0.2.jar",
             "url": "https://repo1.maven.org/maven2/net/kyori/text-adapter-bungeecord/3.0.2/text-adapter-bungeecord-3.0.2.jar"
         },
         {
             "name": "net.kyori:text-adapter-spongeapi:3.0.2",
-            "sha1": "8562afb1594a9d34b891f23add503741d0656873",
+            "sha256": "58f585c3583c9e2106832995f4f7722c00cc48bebe510ec529db719c96fbf491",
             "path": "net/kyori/text-adapter-spongeapi/3.0.2/text-adapter-spongeapi-3.0.2.jar",
             "url": "https://repo1.maven.org/maven2/net/kyori/text-adapter-spongeapi/3.0.2/text-adapter-spongeapi-3.0.2.jar"
         },
         {
             "name": "net.kyori:text-api:3.0.2",
-            "sha1": "608cdb44a74bbd68745941760df730ed55e4b47c",
+            "sha256": "b1e6673c495985f6dadd73bcfcb2d45901c4df992a54cd361e9b30115709ab3d",
             "path": "net/kyori/text-api/3.0.2/text-api-3.0.2.jar",
             "url": "https://repo1.maven.org/maven2/net/kyori/text-api/3.0.2/text-api-3.0.2.jar"
         },
         {
             "name": "net.kyori:text-serializer-gson:3.0.2",
-            "sha1": "9ac22f04f3504c52ff1618c5a8d9a6145d8d9c9e",
+            "sha256": "f20245a67a921e9efad935979f7c792022e22a0d8a804c04035145c8eb49f766",
             "path": "net/kyori/text-serializer-gson/3.0.2/text-serializer-gson-3.0.2.jar",
             "url": "https://repo1.maven.org/maven2/net/kyori/text-serializer-gson/3.0.2/text-serializer-gson-3.0.2.jar"
         },
         {
             "name": "net.kyori:text-serializer-legacy:3.0.2",
-            "sha1": "8acbfb36356259273a8e3a15782e4f2980375bc5",
+            "sha256": "92cf29655e995075adc03f775f29f283429a00cb3c08b6bad596fc09a2cfb1d3",
             "path": "net/kyori/text-serializer-legacy/3.0.2/text-serializer-legacy-3.0.2.jar",
             "url": "https://repo1.maven.org/maven2/net/kyori/text-serializer-legacy/3.0.2/text-serializer-legacy-3.0.2.jar"
         },
         {
             "name": "net.kyori:text-serializer-plain:3.0.2",
-            "sha1": "8d60703f579019f7c26959d2e46501c3d389b48d",
+            "sha256": "4142f4bb793582b6556fa61d30f73d9f5080bbe410e3f034cd94d934afa20b63",
             "path": "net/kyori/text-serializer-plain/3.0.2/text-serializer-plain-3.0.2.jar",
             "url": "https://repo1.maven.org/maven2/net/kyori/text-serializer-plain/3.0.2/text-serializer-plain-3.0.2.jar"
         }
