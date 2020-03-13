@@ -104,12 +104,12 @@ public class GDBootstrap {
             while (iterator.hasNext()) {
                 JSONObject lib = iterator.next();
                 final String name = (String) lib.get("name");
-                final String sha1 = (String) lib.get("sha1");
+                final String sha256 = (String) lib.get("sha256");
                 final String path = (String) lib.get("path");
                 final String relocate = (String) lib.get("relocate");
                 final String url = (String) lib.get("url");
                 final Path libPath = LIB_ROOT_PATH.resolve(path);
-                downloadLibrary(name, relocate, sha1, url, libPath);
+                downloadLibrary(name, relocate, sha256, url, libPath);
             }
         } catch (Throwable t) {
             t.printStackTrace();
@@ -145,7 +145,7 @@ public class GDBootstrap {
         BootstrapUtil.addUrlToClassLoader(name, file);
     }
 
-    public void downloadLibrary(String name, String relocate, String sha1, String url, Path libPath) {
+    public void downloadLibrary(String name, String relocate, String sha256, String url, Path libPath) {
         final File file = libPath.toFile();
         this.jarMap.put(name, file);
         if (relocate != null && !relocate.isEmpty() && relocate.contains(":")) {
@@ -174,8 +174,8 @@ public class GDBootstrap {
             
             final String hash = getLibraryHash(file);
 
-            if (hash == null || !sha1.equals(hash)) {
-                this.getLogger().error("Detected invalid hash '" + hash + "' for file '" + libPath + "'. Expected '" + sha1 + "'. Skipping...");
+            if (hash == null || !sha256.equals(hash)) {
+                this.getLogger().error("Detected invalid hash '" + hash + "' for file '" + libPath + "'. Expected '" + sha256 + "'. Skipping...");
                 try {
                     Files.delete(libPath);
                     return;
@@ -191,7 +191,7 @@ public class GDBootstrap {
 
     private String getLibraryHash(File file) {
         try {
-            final MessageDigest md = MessageDigest.getInstance("SHA-1");
+            final MessageDigest md = MessageDigest.getInstance("SHA-256");
             final byte[] data = Files.readAllBytes(file.toPath());
             final byte[] b = md.digest(data);
             StringBuffer buffer = new StringBuffer();
